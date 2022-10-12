@@ -7,9 +7,11 @@
 2. Enter the command below
 
 `Mac:
+
 yum update python-pip`
   
 `Ubuntu:
+
 apt-get update && apt-get upgrade python-pip  ` 
   
 3. Upgrade setuptools
