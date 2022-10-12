@@ -24,7 +24,7 @@ apt-get update && apt-get upgrade python-pip
 pip install --upgrade setuptools
 ```
 
-4. Make a list of package requirement 
+4. Go to original PC and make a required package list
  
 ```
 pip freeze > req.txt
