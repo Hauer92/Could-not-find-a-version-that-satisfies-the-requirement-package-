@@ -2,7 +2,9 @@
 
 1. Update pip in target computer
 
-`curl https://bootstrap.pypa.io/get-pip.py | python`
+```
+curl https://bootstrap.pypa.io/get-pip.py | python
+```
 
 2. Enter the command below
 
